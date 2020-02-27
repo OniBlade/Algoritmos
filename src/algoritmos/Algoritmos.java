@@ -24,7 +24,7 @@ public class Algoritmos {
         double c;
 
         ano_jose = 1.50;
-        ano_xico = 1.20;
+        ano_xico = 1.30;
 
         while (ano_xico <= ano_jose) {
             ano_jose = ano_jose + 0.02;
