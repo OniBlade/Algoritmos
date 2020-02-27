@@ -33,7 +33,7 @@ public class PesoIdeal {
                 System.out.println("Abaixo do peso");
             } else {
                 if (peso >= 19.1 && peso <= 25.8) {
-                    System.out.println("Peso normal");
+                    System.out.println("Peso normal d");
                 } else {
                     if (peso > 25.8 && peso <= 27.3) {
                         System.out.println("Marginalmente acima do peso");
