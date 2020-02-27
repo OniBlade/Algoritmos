@@ -17,7 +17,7 @@ public class ParImpar {
        
         Scanner scanner = new Scanner(System.in);
         
-        System.out.println("Informe um número inteiro:");
+        System.out.println("Informe um número inteiro válido:");
         int numero = scanner.nextInt();        
         
         if (numero % 2 == 0){
