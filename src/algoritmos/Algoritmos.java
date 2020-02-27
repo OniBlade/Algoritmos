@@ -21,7 +21,7 @@ public class Algoritmos {
         int cont = 0;      // receberá a quantidade de anos 
 
         double v;
-        Double c;
+        double c;
 
         ano_jose = 1.50;
         ano_xico = 1.30;
