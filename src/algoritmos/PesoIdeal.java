@@ -25,10 +25,10 @@ public class PesoIdeal {
         peso = scanner.nextDouble();
 
         if (sexo.equals("M")) {
-            System.out.println("Sexo Masculino e peso= " + peso);
+            System.out.println("Sexo Masculino e peso = " + peso);
 
         } else {
-            System.out.println("Sexo Feminino e peso= " + peso);
+            System.out.println("Sexo Feminino e peso = " + peso);
             if (peso < 19.1) {
                 System.out.println("Abaixo do peso");
             } else {
