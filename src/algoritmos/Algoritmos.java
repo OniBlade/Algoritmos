@@ -32,7 +32,7 @@ public class Algoritmos {
             cont++;
         }
 
-        System.out.println("Quantidade de anos até Xico ser mais velho que José: " + (cont + 1));
+        System.out.println("Quantidade  de anos até Xico ser mais velho que José: " + (cont + 1));
 
     }
 
