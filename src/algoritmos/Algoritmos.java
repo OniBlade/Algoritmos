@@ -27,8 +27,8 @@ public class Algoritmos {
         ano_xico = 1.30;
 
         while (ano_xico <= ano_jose) {
-            ano_jose = ano_jose + 0.02;
-            ano_xico = ano_xico + 0.03;
+            ano_jose = ano_jose + 0.04;
+            ano_xico = ano_xico + 0.06;
             cont++;
         }
 
