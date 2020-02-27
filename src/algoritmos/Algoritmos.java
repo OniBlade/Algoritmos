@@ -27,12 +27,12 @@ public class Algoritmos {
         ano_xico = 1.30;
 
         while (ano_xico <= ano_jose) {
-            ano_jose = ano_jose + 0.123;
+            ano_jose = ano_jose + 0.13;
             ano_xico = ano_xico + 0.13;
             cont++;
         }
 
-        System.out.println("Quantidade  de anos até Xico ser mais velho que José: " + (cont + 1));
+        System.out.println("Quantidade  de anos até Xico ser mais  velho que José: " + (cont + 1));
 
     }
 
