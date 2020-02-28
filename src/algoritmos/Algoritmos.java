@@ -8,7 +8,7 @@ package algoritmos;
 /**
  *
  * @author fagner roger pereira couto
- * alteração com fagner couto
+ * alteração com a alteração trocada
  */
 public class Algoritmos {
 
